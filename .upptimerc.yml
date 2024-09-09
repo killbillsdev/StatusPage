@@ -18,6 +18,7 @@ sites:
 
   - name: KillBills Receipts Ingestion
     url: $RECEIPTS_URL
+    method: POST
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000

@@ -26,6 +26,7 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: hmac $RECEIPT_ENCODED_HMAC"
     body: '$RECEIPT_BODY'
+    icon: https://clipart-library.com/newhp/02a163gg.jpg
 
   - name: KillBills Transactions Ingestion
     url: $TRANSACTIONS_URL
@@ -37,6 +38,7 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: hmac $TRANSACTION_ENCODED_HMAC"
     body: '$TRANSACTION_BODY'
+    icon: https://clipart-library.com/newhp/02a163gg.jpg
 
 
 status-website:

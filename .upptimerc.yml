@@ -26,8 +26,18 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: hmac $RECEIPT_ENCODED_HMAC"
     body: '$RECEIPT_BODY'
+
   - name: KillBills Transactions Ingestion
     url: $TRANSACTIONS_URL
+    method: POST
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: hmac $TRANSACTION_ENCODED_HMAC"
+    body: '$TRANSACTION_BODY'
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

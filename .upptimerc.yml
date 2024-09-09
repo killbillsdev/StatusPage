@@ -18,7 +18,13 @@ sites:
 
   - name: KillBills Receipts Ingestion
     url: $RECEIPTS_URL
-
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: hmac $RECEIPT_ENCODED_HMAC"
+    body: '$RECEIPT_BODY'
   - name: KillBills Transactions Ingestion
     url: $TRANSACTIONS_URL
 

@@ -7,14 +7,24 @@ sites:
   - name: KillBills Website [ https://killbills.co ]
     url: https://killbills.co
     icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    assignees:
+      - basileFernandez
 
   - name: KillBills Stores Map [ https://maps.killbills.co ]
     url: https://maps.killbills.co
     icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    assignees:
+      - bgdtc
+      - shurimaTN
+      - basileFernandez
 
   - name: KillBills Partner's App [ https://partners.killbills.co ]
     url: https://partners.killbills.co
     icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    assignees:
+      - bgdtc
+      - shurimaTN
+      - basileFernandez
 
   - name: KillBills Receipts Ingestion
     url: $RECEIPTS_URL
@@ -27,6 +37,9 @@ sites:
       - "Authorization: hmac $RECEIPT_ENCODED_HMAC"
     body: '$RECEIPT_BODY'
     icon: https://clipart-library.com/newhp/02a163gg.jpg
+    assignees:
+      - bgdtc
+      - shurimaTN
 
   - name: KillBills Transactions Ingestion
     url: $TRANSACTIONS_URL
@@ -39,6 +52,24 @@ sites:
       - "Authorization: hmac $TRANSACTION_ENCODED_HMAC"
     body: '$TRANSACTION_BODY'
     icon: https://clipart-library.com/newhp/02a163gg.jpg
+    assignees:
+      - bgdtc
+      - shurimaTN
+
+  - name: KillBills Stores List API
+    url: $STORES_URL
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: $STORES_API_KEY"
+    icon: https://cdn-icons-png.flaticon.com/512/2697/2697432.png
+    assignees:
+      - bgdtc
+      - shurimaTN
+    __dangerous__body_down_if_text_missing: '{"cursor": "50"'
 
 
 status-website:

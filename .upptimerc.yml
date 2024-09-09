@@ -69,7 +69,6 @@ sites:
     assignees:
       - bgdtc
       - shurimaTN
-    __dangerous__body_down_if_text_missing: '{"cursor": "50"'
 
 
 status-website:

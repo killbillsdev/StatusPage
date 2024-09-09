@@ -7,11 +7,20 @@ sites:
   - name: KillBills Website [ https://killbills.co ]
     url: https://killbills.co
     icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+
   - name: KillBills Stores Map [ https://maps.killbills.co ]
     url: https://maps.killbills.co
     icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+
   - name: KillBills Partner's App [ https://partners.killbills.co ]
     url: https://partners.killbills.co
+    icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+
+  - name: KillBills Receipts Ingestion
+    url: $RECEIPTS_URL
+
+  - name: KillBills Transactions Ingestion
+    url: $TRANSACTIONS_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

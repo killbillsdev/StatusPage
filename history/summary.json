@@ -58,19 +58,19 @@
     "url": "$RECEIPTS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kill-bills-receipts-ingestion",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 577,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "status": "up",
+    "uptime": "80.99%",
+    "uptimeDay": "80.99%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "80.99%",
+    "uptimeYear": "80.99%",
+    "time": 575,
+    "timeDay": 575,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 6
     }
   },
   {

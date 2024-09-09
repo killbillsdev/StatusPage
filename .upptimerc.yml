@@ -4,11 +4,11 @@ repo: StatusPage # The name of this repository
 
 
 sites:
-  - name: website
+  - name: KillBills Website **https://killbills.co**
     url: https://killbills.co
-  - name: map
+  - name: KillBills Stores Map **https://maps.killbills.co**
     url: https://maps.killbills.co
-  - name: partner
+  - name: KillBills Partner's App **https://partners.killbills.co**
     url: https://partners.killbills.co
 
 status-website:

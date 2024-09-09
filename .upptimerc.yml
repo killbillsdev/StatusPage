@@ -69,6 +69,18 @@ sites:
     assignees:
       - bgdtc
       - shurimaTN
+  
+  - name: KillBills Receipt Retrieval API
+    url: $RECEIPT_RETRIEVAL_API
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 15000
+    icon: https://static.vecteezy.com/system/resources/thumbnails/008/650/271/small/bill-statement-linear-icon-of-receipt-vector.jpg
+    assignees:
+      - bgdtc
+      - shurimaTN
+    
 
 
 status-website:

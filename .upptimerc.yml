@@ -56,6 +56,17 @@ sites:
       - bgdtc
       - shurimaTN
 
+  - name: KillBills Matching
+    url: $MATCHING_URL
+    method: GET
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+    icon: https://cdn-icons-png.freepik.com/512/2117/2117024.png
+    assignees:
+      - bgdtc
+      - shurimaTN
+
   - name: KillBills Stores List API
     url: $STORES_URL
     method: GET
@@ -89,8 +100,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /StatusPage
   logoUrl: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbcf_killbills-green.png
-  name: KillBills StatusPage
-  introTitle: "**KillBills©**"
+  name: StatusPage
+  introTitle: "**KillBills**"
   introMessage: Live Monitoring
   navbar:
     - title: Status

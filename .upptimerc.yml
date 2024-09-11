@@ -1,18 +1,19 @@
 # Change these first
 owner: killbillsdev # Your GitHub organization or username, where this repository lives
 repo: StatusPage # The name of this repository
-
+icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+logourl: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbcf_killbills-green.png
 
 sites:
   - name: KillBills Website [ https://killbills.co ]
     url: https://killbills.co
-    icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    icon: $ICON
     assignees:
       - basileFernandez
 
   - name: KillBills Stores Map [ https://maps.killbills.co ]
     url: https://maps.killbills.co
-    icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -20,7 +21,7 @@ sites:
 
   - name: KillBills Partner's App [ https://partners.killbills.co ]
     url: https://partners.killbills.co
-    icon: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -36,7 +37,7 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: hmac $RECEIPT_ENCODED_HMAC"
     body: '$RECEIPT_BODY'
-    icon: https://clipart-library.com/newhp/02a163gg.jpg
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -51,7 +52,7 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: hmac $TRANSACTION_ENCODED_HMAC"
     body: '$TRANSACTION_BODY'
-    icon: https://clipart-library.com/newhp/02a163gg.jpg
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -62,7 +63,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-    icon: https://cdn-icons-png.freepik.com/512/2117/2117024.png
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -76,7 +77,7 @@ sites:
     headers:
       - "Content-Type: application/json"
       - "Authorization: $STORES_API_KEY"
-    icon: https://cdn-icons-png.flaticon.com/512/2697/2697432.png
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -87,7 +88,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 15000
-    icon: https://static.vecteezy.com/system/resources/thumbnails/008/650/271/small/bill-statement-linear-icon-of-receipt-vector.jpg
+    icon: $ICON
     assignees:
       - bgdtc
       - shurimaTN
@@ -97,7 +98,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.killbills.co
   # baseUrl: /StatusPage
-  logoUrl: https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbcf_killbills-green.png
+  logoUrl: $LOGOURL
   name: StatusPage
   introTitle: "**Services Status**"
   introMessage: Live Monitoring

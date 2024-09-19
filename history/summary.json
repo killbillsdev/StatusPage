@@ -121,7 +121,7 @@
     "url": "$STORES_URL",
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-stores-list-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.12%",
     "uptimeDay": "71.11%",
     "uptimeWeek": "95.87%",

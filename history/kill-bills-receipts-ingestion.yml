@@ -1,7 +1,7 @@
 url: $RECEIPTS_URL
-status: down
-code: 502
-responseTime: 506
-lastUpdated: 2024-09-19T09:32:55.641Z
+status: up
+code: 200
+responseTime: 1187
+lastUpdated: 2024-09-19T09:40:35.529Z
 startTime: 2024-09-09T09:17:58.858Z
 generator: Upptime <https://github.com/upptime/upptime>

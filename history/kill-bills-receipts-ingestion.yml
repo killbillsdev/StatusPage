@@ -1,7 +1,7 @@
 url: $RECEIPTS_URL
-status: degraded
+status: up
 code: 200
-responseTime: 7172
-lastUpdated: 2024-09-20T11:28:44.777Z
+responseTime: 534
+lastUpdated: 2024-09-20T11:36:36.108Z
 startTime: 2024-09-09T09:17:58.858Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $STORES_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-23T10:24:03.393Z
+status: degraded
+code: 500
+responseTime: 29896
+lastUpdated: 2024-09-23T10:44:55.323Z
 startTime: 2024-09-09T13:10:05.161Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 778,
-    "timeWeek": 675,
+    "timeWeek": 707,
     "timeMonth": 603,
     "timeYear": 477,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 371,
-    "timeWeek": 177,
+    "timeWeek": 190,
     "timeMonth": 179,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 59,
-    "timeWeek": 89,
+    "timeWeek": 87,
     "timeMonth": 104,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "99.85%",
     "time": 942,
     "timeDay": 725,
-    "timeWeek": 645,
+    "timeWeek": 660,
     "timeMonth": 668,
     "timeYear": 942,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
     "uptimeYear": "99.87%",
     "time": 420,
     "timeDay": 268,
-    "timeWeek": 236,
+    "timeWeek": 234,
     "timeMonth": 233,
     "timeYear": 420,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
     "uptimeYear": "96.44%",
     "time": 723,
     "timeDay": 169,
-    "timeWeek": 135,
+    "timeWeek": 140,
     "timeMonth": 132,
     "timeYear": 723,
     "dailyMinutesDown": {
@@ -128,14 +128,14 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-stores-list-api",
     "status": "up",
-    "uptime": "89.11%",
-    "uptimeDay": "0.01%",
+    "uptime": "89.12%",
+    "uptimeDay": "4.13%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "89.11%",
+    "uptimeYear": "89.12%",
     "time": 20309,
     "timeDay": 3753,
-    "timeWeek": 3655,
+    "timeWeek": 3671,
     "timeMonth": 4140,
     "timeYear": 20309,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "99.97%",
     "time": 2881,
     "timeDay": 3413,
-    "timeWeek": 3331,
+    "timeWeek": 3341,
     "timeMonth": 3026,
     "timeYear": 2881,
     "dailyMinutesDown": {

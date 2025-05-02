@@ -1,7 +1,7 @@
 url: $RECEIPT_RETRIEVAL_API
-status: down
+status: degraded
 code: 500
-responseTime: 1330
-lastUpdated: 2025-05-01T23:01:29.174Z
+responseTime: 19007
+lastUpdated: 2025-05-02T23:01:56.229Z
 startTime: 2024-09-09T13:34:53.657Z
 generator: Upptime <https://github.com/upptime/upptime>

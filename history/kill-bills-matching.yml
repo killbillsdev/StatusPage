@@ -1,7 +1,7 @@
 url: $MATCHING_URL
-status: down
-code: 500
-responseTime: 4231
-lastUpdated: 2025-05-15T23:01:15.389Z
+status: degraded
+code: 200
+responseTime: 5084
+lastUpdated: 2025-05-16T23:01:13.132Z
 startTime: 2024-09-10T09:12:53.067Z
 generator: Upptime <https://github.com/upptime/upptime>

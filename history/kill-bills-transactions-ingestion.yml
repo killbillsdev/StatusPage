@@ -1,7 +1,7 @@
 url: $TRANSACTIONS_URL
-status: up
-code: 200
-responseTime: 527
-lastUpdated: 2025-06-16T23:01:01.527Z
+status: down
+code: 503
+responseTime: 942
+lastUpdated: 2025-06-17T23:02:04.316Z
 startTime: 2024-09-09T09:17:59.579Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -29,18 +29,19 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-stores-map-https-maps-killbills-co",
     "status": "down",
-    "uptime": "74.90%",
+    "uptime": "74.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.72%",
+    "uptimeYear": "59.71%",
     "time": 332,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-04-17": 1393,
+      "2026-04-18": 7,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -275,7 +276,8 @@
     "timeMonth": 2771,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2026-04-17": 1393,
+      "2026-04-18": 8,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -638,8 +640,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   },
   {
@@ -648,18 +649,19 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-stores-list-api",
     "status": "down",
-    "uptime": "70.12%",
+    "uptime": "70.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.97%",
+    "uptimeYear": "53.96%",
     "time": 3772,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3895,
     "dailyMinutesDown": {
-      "2026-04-17": 1393,
+      "2026-04-18": 8,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -838,7 +840,7 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-receipt-retrieval-api",
     "status": "down",
-    "uptime": "20.74%",
+    "uptime": "20.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -849,7 +851,8 @@
     "timeMonth": 12710,
     "timeYear": 15347,
     "dailyMinutesDown": {
-      "2026-04-17": 1393,
+      "2026-04-18": 8,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -1212,8 +1215,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   }
 ]

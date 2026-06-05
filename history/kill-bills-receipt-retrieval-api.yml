@@ -1,7 +1,7 @@
 url: $RECEIPT_RETRIEVAL_API
-status: down
+status: degraded
 code: 403
-responseTime: 586
-lastUpdated: 2026-06-04T23:22:50.158Z
+responseTime: 20134
+lastUpdated: 2026-06-05T23:24:52.010Z
 startTime: 2024-09-09T13:34:53.657Z
 generator: Upptime <https://github.com/upptime/upptime>

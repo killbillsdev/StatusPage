@@ -7,16 +7,17 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.43%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "70.87%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "98.35%",
     "time": 536,
     "timeDay": 68,
     "timeWeek": 332,
     "timeMonth": 456,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2026-06-12": 1408,
+      "2026-06-13": 25,
+      "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 32,
       "2025-11-25": 1381,
@@ -32,18 +33,19 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-stores-map-https-maps-killbills-co",
     "status": "down",
-    "uptime": "68.36%",
+    "uptime": "68.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.38%",
+    "uptimeYear": "44.37%",
     "time": 354,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2026-06-12": 1409,
+      "2026-06-13": 25,
+      "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -330,7 +332,8 @@
     "timeMonth": 111,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-06-12": 1409,
+      "2026-06-13": 25,
+      "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -693,8 +696,7 @@
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
-      "2025-06-14": 1440,
-      "2025-06-13": 1440
+      "2025-06-14": 1440
     }
   },
   {
@@ -707,14 +709,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.10%",
+    "uptimeYear": "44.09%",
     "time": 3807,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3758,
     "dailyMinutesDown": {
-      "2026-06-12": 1409,
+      "2026-06-13": 25,
+      "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -928,7 +931,7 @@
     "icon": "https://cdn.prod.website-files.com/65266c5d2cc55475b719db3a/65266c5d2cc55475b719dbea_favicon-killbillz%201.svg",
     "slug": "kill-bills-receipt-retrieval-api",
     "status": "down",
-    "uptime": "18.93%",
+    "uptime": "18.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -939,7 +942,8 @@
     "timeMonth": 9661,
     "timeYear": 14629,
     "dailyMinutesDown": {
-      "2026-06-12": 1409,
+      "2026-06-13": 25,
+      "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1302,8 +1306,7 @@
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
-      "2025-06-14": 1440,
-      "2025-06-13": 1440
+      "2025-06-14": 1440
     }
   }
 ]
